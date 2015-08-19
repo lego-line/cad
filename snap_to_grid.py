@@ -1,3 +1,17 @@
+"""
+This file takes an ldraw file as an input via drag and drop / command line, and modifies it in place.
+
+It works around a LeoCAD 0.82.1 bug, causing positions and rotation to accumulate random errors.
+This script removes those errors, by rounding these values
+
+This SHOULD NOT be run on any file containing:
+* generated belts
+* non-orthogonal pieces
+* bricks / baseplates
+
+"""
+
+
 from decimal import Decimal, InvalidOperation
 import fileinput
 
