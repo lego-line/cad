@@ -19,3 +19,8 @@ New modules should have their baseplate center at the horizontal origin.
 All technic parts should be aligned to a half stud coordinate. This causes the baseplate not to line up at Y=0, but that is OK.
 
 Add steps to models where possible
+
+Wiki
+----
+
+For more information about the various designs tried, see [the wiki](https://github.com/lego-line/cad/wiki)
