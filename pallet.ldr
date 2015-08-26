@@ -1,3 +1,8 @@
+0 !LEOCAD MODEL AUTHOR Eric Wieser
+0 !LEOCAD MODEL DESCRIPTION Lego Line - Pallet
+0 !LEOCAD MODEL COMMENT One of the pallets used on the line. The bushes on the bottom fit snugly into the groves on the belt, providin plenty of grip on the belts.
+0 !LEOCAD MODEL COMMENT 
+0 !LEOCAD MODEL COMMENT Note that the beams are color 16 (Main Color), allowing this model to be included and recolored.
 1 16 20 -30 0 0 -1 0 1 0 0 0 0 1 32524.DAT
 1 0 30 -30 20 1 0 0 0 1 0 0 0 1 2780.DAT
 1 0 30 -30 -60 1 0 0 0 1 0 0 0 1 2780.DAT

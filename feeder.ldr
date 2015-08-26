@@ -1,3 +1,6 @@
+0 !LEOCAD MODEL AUTHOR Eric Wieser
+0 !LEOCAD MODEL DESCRIPTION Lego Line - Feeder Module
+0 !LEOCAD MODEL COMMENT Takes a stack of pallets and pushes them out onto a belt
 1 72 240 -320 300 0 -1 0 0 0 -1 1 0 0 32523.DAT
 1 1 240 -320 300 1 0 0 0 -1 0 0 0 -1 6558.DAT
 1 1 260 -300 300 1 0 0 0 -1 0 0 0 -1 6558.DAT
