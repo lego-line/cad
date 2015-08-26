@@ -1,5 +1,5 @@
-0 ROTATION CENTER 0 0 0 1 "Custom" 
-0 ROTATION CONFIG 0 0
+0 !LEOCAD MODEL AUTHOR Eric Wieser
+0 !LEOCAD MODEL DESCRIPTION Lego Line
 1 72 0 0 0 1 0 0 0 1 0 0 0 1 feeder.LDR
 1 72 -640 0 -640 0 0 -1 0 1 0 1 0 0 feeder.LDR
 1 72 0 0 -640 1 0 0 0 1 0 0 0 1 transfer.LDR
@@ -7,9 +7,8 @@
 1 72 0 0 -1280 1 0 0 0 1 0 0 0 1 transfer.LDR
 1 72 -640 0 -1920 0 0 -1 0 1 0 1 0 0 feeder.LDR
 1 72 0 0 -1920 1 0 0 0 1 0 0 0 1 transfer.LDR
-1 4 240 -190 220 1 0 0 0 1 0 0 0 1 pallet-stack-5.LDR
-1 4 240 -390 220 1 0 0 0 1 0 0 0 1 pallet-stack-5.LDR
-1 14 -860 -190 -400 0 0 1 0 1 0 -1 0 0 pallet-stack-5.LDR
-1 2 -860 -190 -1040 0 0 1 0 1 0 -1 0 0 pallet-stack-5.LDR
-1 1 -860 -190 -1680 0 0 1 0 1 0 -1 0 0 pallet-stack-5.LDR
-0
+1 4 240 -250 220 1 0 0 0 1 0 0 0 1 pallet-stack-5.LDR
+1 4 240 -450 220 1 0 0 0 1 0 0 0 1 pallet-stack-5.LDR
+1 14 -860 -250 -400 0 0 1 0 1 0 -1 0 0 pallet-stack-5.LDR
+1 2 -860 -250 -1040 0 0 1 0 1 0 -1 0 0 pallet-stack-5.LDR
+1 1 -860 -250 -1680 0 0 1 0 1 0 -1 0 0 pallet-stack-5.LDR
