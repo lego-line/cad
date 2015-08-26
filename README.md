@@ -4,7 +4,7 @@ Lego Line in LDraw
 This repository contains LDraw files for the lego line. To view and edit these files, you'll want
 to run the [All In One Installer](http://www.ldraw.org/article/104.html).
 
-![cad render](http://i.imgur.com/YDpFPXu.png)
+![cad render](https://i.imgur.com/qbRMy6r.png)
 
 The rendering above was produced using LDView.
 
